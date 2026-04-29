@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "VEHICLE Systems Lab"
+message: "If you use this project in research, please cite the VEHICLE Systems Lab and the E.I.A.R.(V) paper."
+type: software
+authors:
+  - family-names: "Borda Milan"
+    given-names: "Roberto"
+    orcid: "https://orcid.org/0009-0009-9047-1036"
+version: "0.1.0"
+date-released: "2026-04-29"
+repository-code: "https://github.com/vehiclesystemslab/vehicle"
+license: "Apache-2.0"
+keywords:
+  - complex systems
+  - graph dynamics
+  - structural tension
+  - reproducibility
+  - projection governance
+references:
+  - type: article
+    title: "VEHICLE 3D with E.I.A.R.(V): A Projection-Governed Framework for Self-Stabilizing Relational Networks"
+    authors:
+      - family-names: "Borda Milan"
+        given-names: "Roberto"
+    year: 2026
+    journal: "VEHICLE Systems Lab / AIMTG"
